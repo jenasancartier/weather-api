@@ -1,4 +1,4 @@
-![project screenshot](/resources/images/screenshot.png)
+![project screenshot](/img/screenshot.png)
 
 # [Weather API]
 
